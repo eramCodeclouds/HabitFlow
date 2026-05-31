@@ -232,3 +232,7 @@ npm run build
 HabitFlow  
 Small habits. Better days.  
 Powered by Eram.
+
+Here is the Sanapshots :
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/90f05f4f-1392-4b32-b620-566d9fc9ea26" />
+
