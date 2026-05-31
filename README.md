@@ -234,5 +234,29 @@ Small habits. Better days.
 Powered by Eram.
 
 Here is the Sanapshots :
+Workflow on n8n : 
 <img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/90f05f4f-1392-4b32-b620-566d9fc9ea26" />
+
+Login Page : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/8e06ed18-ebb5-4a21-9230-da8ee78c90e8" />
+
+Registration Page : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/f0ba6110-03e9-4b80-a470-77c91c112bf4" />
+
+Habit Coach Dahboard : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/ed3e1b30-1d21-49aa-8744-8f772086bb7b" />
+
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/59813fe0-1453-42aa-bddb-9f38a124368f" />
+
+Create Habit : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/b5c532f8-d24c-4c2e-9a29-bed85895c9e2" />
+
+Edit Habit : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/2b2be32f-fb9f-430c-b4b9-661b38fbd318" />
+
+After Complete you will receive a message on TG : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/b25778af-9869-4218-bfce-370b63b71e61" />
+
+Habit Delation : 
+<img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/6f62d1bd-79bb-43b0-b023-63feb26427d5" />
 
