@@ -257,6 +257,6 @@ Edit Habit :
 After Complete you will receive a message on TG : 
 <img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/b25778af-9869-4218-bfce-370b63b71e61" />
 
-Habit Delation : 
+Habit Delete : 
 <img width="1849" height="1010" alt="image" src="https://github.com/user-attachments/assets/6f62d1bd-79bb-43b0-b023-63feb26427d5" />
 
